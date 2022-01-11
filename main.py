@@ -1,5 +1,6 @@
 import random
 
+
 def rpc():
     options = ["Rock", "Paper", "Scissors"]
     me = input("\nYour choice(Rock, Paper, Scissors): ")
